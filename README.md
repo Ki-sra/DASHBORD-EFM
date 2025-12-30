@@ -108,8 +108,7 @@ Dashboard interactif pour la gestion d'une agence d'assurance automobile au Maro
 
 \# Clonez le repository
 
-git clone https://github.com/\[votre-username\]/assurance-auto-dashboard.git
-
+git clone https://github.com/Ki-sra/DASHBORD-EFM.git
   
 
 \# Accédez au dossier
@@ -216,11 +215,11 @@ ou téléchargeable directement depuis l’interface de l’application.
 assurance-auto-dashboard/
 
 │
-├── index.html                    # Page principale
-├── README.md                     # Documentation
-├── Aguezar_Ayoub.xlsx                      # Licence MIT
-├── Aguezar_Ayoub.ppdx                  # Ressources statiques
-│   Aguezar_Ayoub.pdf                    # Styles CSS
+├── index.html                   
+├── README.md                    
+├── Hamza-Kousra.xlsx                     
+├── HamzaKousra.ppdx                  
+│   Hamza-Kousra.pdf                    
 │   
 
 
@@ -354,7 +353,7 @@ Ce projet est sous licence **MIT**. Voir le fichier (LICENSE) pour plus de déta
 
   
 
-**Étudiant :** Ayoub Aguezar
+**Étudiant :** Kousra Hamza
 
 **Établissement :** ISTA Ouarzazate  
 
@@ -396,11 +395,9 @@ Ce projet est sous licence **MIT**. Voir le fichier (LICENSE) pour plus de déta
 
 Pour toute question ou suggestion :
 
-- **Email** : ayoubaguezzar1@gmail.com
+- **Email** : kousrahamza82@gmail.com
 
-- **GitHub** : (https://github.com/Ayoub-glitsh)
-
-- **Site web** : \[votresite.com\](https://votresite.com)
+- **GitHub** : (https://github.com/Ki-sra)
 
   
 
@@ -413,7 +410,7 @@ Pour toute question ou suggestion :
 
 ### ⭐ Si ce projet vous a été utile, n'oubliez pas de mettre une étoile !
 
-  https://github.com/Ayoub-glitsh/assurance-auto-dashboard/edit/main/
+  https://github.com/Ki-sra/DASHBORD-EFM/edit/main/
 
   
 
