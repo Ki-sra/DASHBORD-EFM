@@ -381,7 +381,7 @@ Ce projet est sous licence **MIT**. Voir le fichier (LICENSE) pour plus de déta
 
   
 
-- **Problèmes techniques** : \[Ouvrir une issue\](https://github.com/Ayoub-glitsh/assurance-auto-dashboard/tree/main)
+- **Problèmes techniques** : \[Ouvrir une issue\](https://github.com/Ki-sra/assurance-auto-dashboard/tree/main)
 
 - **Questions** : Consultez la section \[FAQ\](#)
 
